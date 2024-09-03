@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Residential Cleaning Company</title>
+    <title>Your Residential Cleaning Company Serving The Hill Country</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -11,7 +11,7 @@
             padding: 0;
             color: #333;
         }
-        header {
+        header {Hill Country Whistle CLean}
             background-color: #4CAF50;
             color: white;
             padding: 15px 0;
